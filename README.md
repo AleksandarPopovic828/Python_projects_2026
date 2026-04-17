@@ -6,7 +6,7 @@ To allow the user to enter data: Loan amount (denar), Annual interest rate (%), 
 To calculate: Monthly installment (EMI) Total repayment amount 
 To display the results in the output in a clear and readable manner
 
-Note:
+Note (MK):
 Пресметка на месечната рата и вкупниот износ за отплата на кредитот. 
 Врз основа на внесениот износ на кредитот (главницата), годишната каматна стапка и периодот на отплата изразен во месеци.
 
